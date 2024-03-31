@@ -17,5 +17,7 @@
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </div>
-Currently, I am an Android Developer. I keep on learning and I dont let my knowledge to be bound to any one tech stack. Love coding and uploaded some basic websites and Apps to track my improvement through out the process of learning and developing. I have a rudimentary understanding of Java and C++ programming. Very enthusiastic about collaboration. Creating a team of like-minded people and working with them to build project is something I often do and like to do so. Having a constant urge to learn made me do whatever I did to date.
+Currently, I work as an Android Developer, constantly seeking new learning opportunities and refusing to confine myself to just one tech stack. I thoroughly enjoy coding and have uploaded several basic websites and apps to track my progress as I continue to learn and develop. While my expertise lies primarily in Android development, I also possess a rudimentary understanding of Java and C++ programming languages.
+
+I am highly enthusiastic about collaboration, often creating teams of like-minded individuals to work together on projects. This collaborative approach is something I frequently engage in and thoroughly enjoy. My insatiable thirst for learning has been the driving force behind my journey so far, motivating me to continually push myself and explore new horizons.
 
